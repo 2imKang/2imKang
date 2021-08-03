@@ -14,9 +14,9 @@ function firstQuestion(){
 
     $('.content').hide();
     Swal.fire({
-        title: 'Chào em, Anh tên là Cường(Kang)!',
+        title: 'Chào em, Anh tên là Cường',
         text: 'Anh có điều này muốn hỏi, em hãy trả lời thật lòng nha',
-        imageUrl: '../img/1.png',
+        imageUrl: '../img/1.jpg',
         imageWidth: 300,
         imageHeight: 300,
         background: '#fff url("../img/iput-bg.jpg")',
